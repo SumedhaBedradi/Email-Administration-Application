@@ -12,5 +12,19 @@ This is a simple Java application for managing employee email accounts within an
 ## Technologies Used
 - Java 8 or higher
 
-## Setup Instructions
+## Example
+Enter your first name: John
+Enter your last name: Smith
+DEPARTMENT CODES
+1 for Sales
+2 for Development
+3 for Accounting
+0 for none
+Enter department code: 2
+Your password is: G7H!F5Z1P9
+Your email is: john.smith@dev.aeycompany.com
+DISPLAY NAME: John Smith
+COMPANY EMAIL: john.smith@dev.aeycompany.com
+MAILBOX CAPACITY: 500mb
+
 
